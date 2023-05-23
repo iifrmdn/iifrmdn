@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nmap, OWASP, Masscan, Wireshark**
 
-- 📝 Free Bypass & Hack PUBG on [https://113informatika.blogspot.com/](https://113informatika.blogspot.com/)
+- 📝 Bypass & Hack PUBG VIP Crack FREE
 
 - 💬 Ask me about **C, HTML, CSS, Java**
 
