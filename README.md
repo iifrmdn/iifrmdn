@@ -27,15 +27,6 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 </p>
 
-<h4 align="left">Certificates:</h4>
-
-![1662996291032](https://user-images.githubusercontent.com/91766087/230991696-e4260fe5-ae78-4fe2-9b7e-7e44533ce813.jpeg)
-
-![1643365744816](https://user-images.githubusercontent.com/91766087/230991719-9456f4a5-b84e-49a1-a26a-69354fe8d75d.jpeg)
-
-![1643366000818](https://user-images.githubusercontent.com/91766087/230991757-642ef8df-3626-4306-8dd1-cae1a739997f.jpeg)
-
-![1643366296526](https://user-images.githubusercontent.com/91766087/230991794-63b83927-704c-45b8-bd2c-7c27e353aa0f.jpeg)
 
 ![1643103259450](https://user-images.githubusercontent.com/91766087/230991815-cb24058a-deeb-486f-85c2-746d44e71fa5.jpeg)
 
