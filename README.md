@@ -1,7 +1,5 @@
 <h2>Hi 👋, I'm iifrmdn</h2>
 
-![gtbhb](https://user-images.githubusercontent.com/130405696/230999939-4aad9823-2fdd-4301-8747-ea92c169b269.png)
-
 <h3>A Bypass & Hack Professional from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifnrrmdn&label=Profile%20views&color=0e75b6&style=flat" alt="arifnrrmdn" /> </p>
