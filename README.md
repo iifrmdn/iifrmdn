@@ -28,11 +28,3 @@
 </p>
 
 
-![1643103259450](https://user-images.githubusercontent.com/91766087/230991815-cb24058a-deeb-486f-85c2-746d44e71fa5.jpeg)
-
-![1663977542855](https://user-images.githubusercontent.com/91766087/230991862-bec85846-30da-45b9-83e0-c759d47c6b08.jpeg)
-
-![1640704671152](https://user-images.githubusercontent.com/91766087/230991880-75673d29-e71f-40c0-b0c3-3f043f1c6894.jpeg)
-
-![1673314200345](https://user-images.githubusercontent.com/91766087/230991893-2d811108-63a9-42db-b7d4-48053295bc02.jpeg)
-
