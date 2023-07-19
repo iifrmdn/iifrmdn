@@ -6,7 +6,7 @@
 
 - 18**yo**
 
-- 🌱 I’m currently learning **C & Web Programming**
+- 🌱 I’m currently learning **OSINT Framework**
 
 - 📝 Bypass & Hack PUBG Research
 
