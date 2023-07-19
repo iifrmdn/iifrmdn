@@ -10,7 +10,7 @@
 
 - 📝 Bypass & Hack PUBG Research
 
-- 💬 Ask me about **C & Security**
+- 💬 Ask me about **C & ParrotOS Security**
 
 <hr>
 
