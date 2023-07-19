@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **OSINT Framework**
 
-- 📝 Bypass & Hack PUBG Research
+- 📝 Bypass & Hax PUBG Research
 
-- 💬 Ask me about **C & ParrotOS Security**
+- 💬 Ask me about **Bypass, Hax & Security**
 
 <hr>
 
