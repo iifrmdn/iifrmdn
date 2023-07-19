@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifnrrmdn&label=Profile%20views&color=0e75b6&style=flat" alt="arifnrrmdn" /> </p>
 <hr>
 
-- 17**yo**
+- 18**yo**
 
 - 🌱 I’m currently learning **C & Web Programming**
 
-- 📝 Bypass & Hack PUBG VIP Crack
+- 📝 Bypass & Hack PUBG Research
 
-- 💬 Ask me about **C, HTML, CSS, Java**
+- 💬 Ask me about **C & Security**
 
 <hr>
 
